@@ -9,6 +9,6 @@
     },
     "depends_on": [
 	"CodingLiki/OoAutoloader",
-	"CodingLiki/Http"
+	"Psr/Http"
     ]
 }
