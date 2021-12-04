@@ -1,7 +1,9 @@
-{ "name": "http-factory",
+{
+    "name": "http-factory",
     "vendor": "Psr",
     "description": "",
     "repo_url": "https://github.com/coding-liki/http-factory.git",
+    "version": "0.1",
     "psr-4": {
         "Psr\\Http\\Message\\": "src/"
     },
